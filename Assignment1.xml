@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Library>
+	<Technical>
+		<Book> 
+			<ISBN>978-1119363026</ISBN>
+			<Title>Coding For Dummies</Title>
+			<Author>Nikhil Abraham</Author>
+		</Book>
+		
+		<Book> 
+			<ISBN>978-1718502703</ISBN>
+			<Title>Python:Crash Course</Title>
+			<Author>Eric Matthes</Author>
+		</Book>
+	</Technical>
+	<Cookery>
+		<Book> 
+			<ISBN>978-1399710480</ISBN>
+			<Title>Sweet Therapy</Title>
+			<Author>Una Leonard</Author>
+		</Book>
+		<Book> 
+			<ISBN>978-0679457497</ISBN>
+			<Title>Rao's Cookbook: Over 100 Years of Italian Home Cooking</Title>
+			<Author>Frank Pellegrino</Author>
+		</Book>
+		</Cookery>		
+</Library>
