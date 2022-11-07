@@ -34,7 +34,7 @@ contentOfFile = response.text
 
 #using replace function to switch all occurences of 'Andrew' (and 'andrew') with 'Brendan'
 
-newContents = contentOfFile.replace("Andrew ", "Brendan").replace("andrew", "Brendan")
+newContents = contentOfFile.replace("Andrew", "Brendan").replace("andrew", "Brendan")
 
 #print (newContents)
 
